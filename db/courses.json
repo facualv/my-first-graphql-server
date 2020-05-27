@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Maths",
+    "description": "Intermediate Maths"
+  },
+  {
+    "id": 2,
+    "name": "History",
+    "description": "Modern American History"
+  },
+  {
+    "id": 3,
+    "name": "Language",
+    "description": "English Language Fundamentals"
+  }
+]

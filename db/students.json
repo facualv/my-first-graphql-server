@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Martin",
+    "lastname": "Flores",
+    "courseId": 1
+  },
+  {
+    "id": 2,
+    "name": "Jorge",
+    "lastname": "Rojas",
+    "courseId": 1
+  },
+  {
+    "id": 3,
+    "name": "Cuchu",
+    "lastname": "Cambiasso",
+    "courseId": 1
+  },
+  {
+    "id": 4,
+    "name": "Flor",
+    "lastname": "De La Vega",
+    "courseId": 1
+  },
+  {
+    "id": 5,
+    "name": "Juan",
+    "lastname": "Soto",
+    "courseId": 2
+  },
+  {
+    "id": 6,
+    "name": "Pedro",
+    "lastname": "Llorens",
+    "courseId": 2
+  },
+  {
+    "id": 7,
+    "name": "Lucia",
+    "lastname": "Frau",
+    "courseId": 2
+  },
+  {
+    "id": 8,
+    "name": "Marta",
+    "lastname": "Milansio",
+    "courseId": 3
+  },
+  {
+    "id": 9,
+    "name": "Guillermina",
+    "lastname": "Luznueva",
+    "courseId": 3
+  },
+  {
+    "id": 10,
+    "name": "Facundo",
+    "lastname": "Alvarez",
+    "courseId": 3
+  }
+]
