@@ -62,7 +62,7 @@ const GradeType = new GraphQLObjectType({
     },
     studentId: { type: GraphQLNonNull(GraphQLInt) },
     student: {
-      type: CourseType,
+      type: StudentType,
       resolve: (grade) => {
         return students.find((student) => student.id === grade.studentId);
       }
